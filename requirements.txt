@@ -6,3 +6,5 @@ tensorflow==2.17.0
 numpy==1.26.4
 pandas==2.2.3
 tqdm==4.66.5
+# Add google-api-python-client if you use the song_fetcher.py
+# google-api-python-client
